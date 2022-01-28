@@ -1,5 +1,5 @@
-<img src="https://user-images.githubusercontent.com/98581302/151515906-f9bc7ace-b8f6-4d08-a01f-ec6c8a57c457.gif" width="400" height="250">
-
+<img src="https://firebasestorage.googleapis.com/v0/b/e-list-e5622.appspot.com/o/Assets%2FeLT.png?alt=media" width="400" height="250">
+[](https://firebasestorage.googleapis.com/v0/b/e-list-e5622.appspot.com/o/Assets%2FeLT.png?alt=media)
 # Energy List Smart Contracts
 
 **ELIST:**   
