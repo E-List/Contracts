@@ -3,6 +3,6 @@
 
 # Contracts
 
-jejejej ###### ELIST:  
-###### ELIST ILO:  
-###### ELIST Lock Ups:  
+**ELIST:**   
+**ELIST ILO:**  
+**ELIST Lock Ups:**  
