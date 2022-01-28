@@ -1,4 +1,4 @@
-https://firebasestorage.googleapis.com/v0/b/e-list-e5622.appspot.com/o/Assets%2FELIST.mov?alt=media
+gs://e-list-e5622.appspot.com/Assets/ELIST.mov
 
 # Energy List Smart Contracts
 
