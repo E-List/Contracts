@@ -1,4 +1,4 @@
-![ELIST]<img src="https://user-images.githubusercontent.com/98581302/151515906-f9bc7ace-b8f6-4d08-a01f-ec6c8a57c457.gif" width="250" height="250">
+<img src="https://user-images.githubusercontent.com/98581302/151515906-f9bc7ace-b8f6-4d08-a01f-ec6c8a57c457.gif" width="400" height="250">
 
 # Energy List Smart Contracts
 
