@@ -6,5 +6,5 @@
 
 **ⲶLIST Locks:**  _0x657269397A824120049a5f264169244836d88fF5_
 
-To check Contract Code use: _http://explorer.energyweb.org/_
+To check Contract's Code use: _http://explorer.energyweb.org/_
 
