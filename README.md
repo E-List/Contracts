@@ -6,5 +6,9 @@
 
 **ⲶLIST Locks:**  _0x657269397A824120049a5f264169244836d88fF5_
 
+**ⲶLIST ILO:**  _0x653c8F8f8627EeD1982E650deDC120cEf401b4ed_
+
+
+
 To check Contract's Code use: _http://explorer.energyweb.org/_
 
