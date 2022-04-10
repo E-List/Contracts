@@ -12,5 +12,5 @@
 
 
 
-To check Contract's Code use: _http://explorer.energyweb.org/_
+To check Contracts on Energy Web Chain (EWC) use: _http://explorer.energyweb.org/_
 
